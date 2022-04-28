@@ -38,7 +38,7 @@ const App = () => {
       <Features />
       <div className="px-4 py-2 justify-center items-center bg-primary flex-col text-center banner04">
         <p className={`${styles.pText} ${styles.whiteText}`}>Matthew Brown: {'  '}
-        <span className="bold">(240) 204-2927</span>
+        <span className="bold">(240) 204-2927 ---- matthewbrown0798@gmail.com</span>
         </p>
       </div>
     </>
